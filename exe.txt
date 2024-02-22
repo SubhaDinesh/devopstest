@@ -1,3 +1,5 @@
 hi 
 welcome
 hi world!
+flowers
+fruits
